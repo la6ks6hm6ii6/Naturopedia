@@ -70,3 +70,14 @@ body{
     background-color: rgb(36, 33, 33);
     color: white;
 }
+footer{
+    background-color:whitesmoke;
+    color:black;
+    text-align:center;
+    padding:10px;
+    font-size:16px;
+    letter-spacing:1px;
+}
+footer p{
+    margin:0;
+}
